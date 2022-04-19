@@ -1,0 +1,10 @@
+
+body{
+    margin:0;
+    background-image: linear-gradient(to right, #f8da6f, #9be28a, #00ddc5, #00cdf6, #6db3ff);
+    font-family: 'Fira Sans', sans-serif;
+    font-size: larger;
+}
+h2{
+    color: #5e1df7;
+}
